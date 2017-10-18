@@ -1,5 +1,5 @@
 
-# Reactnative-Backend-Meteor
+# Backend-Meteor for React Native
   ****************************
   This is backend for React Native Application.
   
